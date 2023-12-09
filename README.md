@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Bhagya</h1>
 <h3 align="center">Elevating User Interfaces with Code: A Frontend Alchemist's GitHub Chronicle</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-bhagya&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-bhagya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh-bhagya" alt="ganesh-bhagya" /></a> </p>
 
 - 🌱 I’m currently learning **Anything and Everything**
 
